@@ -1,11 +1,15 @@
 ### Hi there 👋
+My Name is Yuki Endo, Woodberry Forest School Class of 24. 
+📚 I’m currently learning Python with Mr. Tucker!
+💬 Ask me about Woodberry!
+📫 Reach me @: yuki_endo@woodberry.org.
 
 <!--
 **Yuki-Endo-0125/Yuki-Endo-0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
